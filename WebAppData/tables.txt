@@ -1,0 +1,6 @@
+Vito Wood Fired Pizza Colombo~1~10~false
+Vito Wood Fired Pizza Colombo~2~10~true
+Vito Wood Fired Pizza Peradeniya~1001~5~true
+Vito Wood Fired Pizza Peradeniya~1002~10~true
+Vito Wood Fired Pizza Kandy~8~10~true
+Vito Wood Fired Pizza Kandy~2~2~true
